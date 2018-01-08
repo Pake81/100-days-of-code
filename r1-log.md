@@ -5,6 +5,6 @@ The log of my #100DaysOfCode challenge. Started on [January 8, Monday, 2018].
 ## Log
 
 ### R1D1 
-Started to code.
+Started to code. Installed PyGithub.
 
 ### R1D2
