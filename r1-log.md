@@ -5,6 +5,6 @@ The log of my #100DaysOfCode challenge. Started on [January 8, Monday, 2018].
 ## Log
 
 ### R1D1 
-Started to code. Installed PyGithub and pygame. I am using Visual Studio Code as a tool.
+Started to code. Installed PyGithub and pygame. I am using Visual Studio Code as a tool. Did intro of pygame (https://www.pygame.org/docs/tut/PygameIntro.html)
 
 ### R1D2
