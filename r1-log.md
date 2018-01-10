@@ -9,3 +9,6 @@ Started to code. Installed PyGithub and pygame. I am using Visual Studio Code as
 
 ### R1D2
 Second day, no clear plan of what to do. I outline of a tower defense game in mind. Learned more about pygame.
+
+### R1D3
+Third day, continue to learn about stuff to do other stuff
