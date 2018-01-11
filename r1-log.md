@@ -12,3 +12,6 @@ Second day, no clear plan of what to do. I outline of a tower defense game in mi
 
 ### R1D3
 Third day, continue to learn about stuff to do other stuff
+
+### R1D4
+Progress, maybe.
